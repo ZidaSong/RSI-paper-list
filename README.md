@@ -4,8 +4,7 @@ Paper list for the survey of Remote Sensing Images
 ``````````````````````````````
 
 ``````````````````````````````
-
-# 1.Survey <a name="1"></a>  
+2020/2/12
 - A Survey on Object Detection in Optical Remote Sensing Images, [[paper]](https://arxiv.org/vc/arxiv/papers/1603/1603.06201v1.pdf)   
 
 
