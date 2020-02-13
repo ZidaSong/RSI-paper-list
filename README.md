@@ -56,6 +56,21 @@ Paper list for the survey of Remote Sensing Images
 - 016 Road Vehicle Detection and Classification from Very-High-Resolution Color Digital Orthoimagery based on Object-Oriented Method
 , [[paper]](https://ieeexplore.ieee.org/document/4779761
 )  
+- 017 Small Object Shape Description Algorithm in Satellite Remote Sensing Image
+, [[paper]](http://en.cnki.com.cn/Article_en/CJFDTOTAL-JSJC201124070.htm
+)  
+- 018 Information Extraction of Land Category Based on Small Class Object
+, [[paper]](
+)  
+- 019 Accurate Object Localization in Remote Sensing Images Based on Convolutional Neural Networks
+, [[paper]](https://ieeexplore.ieee.org/document/7827088
+)  
+- 020 Hierarchical and Robust Convolutional Neural Network for Very High-Resolution Remote Sensing Object Detection
+, [[paper]](https://ieeexplore.ieee.org/document/8676107
+)  
+- 021 Robust Space–Frequency Joint Representation for Remote Sensing Image Scene Classification
+, [[paper]](https://ieeexplore.ieee.org/document/8720267
+)  
 
 # Contact 
 Please contact Zida Song(szd16688@qq.com) for your questions about this webpage.
