@@ -73,4 +73,4 @@ Paper list for the survey of Remote Sensing Images
 )  
 
 # Contact 
-Please contact Zida Song(szd16688@qq.com) for your questions about this webpage.
+Please contact %%%% for your questions about this webpage.
