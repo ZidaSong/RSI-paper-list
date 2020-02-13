@@ -1,5 +1,5 @@
 # RSI-paper-list
-Paper list for the survey of Remote Sensing Images
+Paper list for the survey of Remote Sensing Images object detection
 
 ``````````````````````````````
 
